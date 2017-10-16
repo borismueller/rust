@@ -1,0 +1,6 @@
+[package]
+name = "add_calc"
+version = "0.1.0"
+authors = ["borismueller <boris.mueller@iet-gibb.ch>"]
+
+[dependencies]
